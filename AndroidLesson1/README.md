@@ -42,3 +42,12 @@
     and color definitions. Similar to drawable, values/ contains non-drawable resources, 
     such as strings, colors, etc. The strings.xml file defines the "Hello world!" string 
     that displays when you run the default app.
+
+
+
+
+
+**ListView** is a view group that displays a list of scrollable items. The *list items* are *automatically* inserted to the list using an **Adapter** that pulls content from a source such as an *array* or *database query* and converts each item result into a view that's placed into the list.
+
+
+
