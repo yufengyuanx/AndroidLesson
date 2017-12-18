@@ -1,0 +1,10 @@
+/AndroidLesson1/*.iml
+/AndroidLesson1/.gradle
+/AndroidLesson1/local.properties
+/AndroidLesson1/.idea/workspace.xml
+/AndroidLesson1/.idea/libraries
+/AndroidLesson1/.DS_Store
+/AndroidLesson1/build
+/AndroidLesson1/captures
+/AndroidLesson1/.externalNativeBuild
+.DS_Store
